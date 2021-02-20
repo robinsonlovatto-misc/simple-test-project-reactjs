@@ -1,11 +1,12 @@
-# reactjs-concepts
+# React JS - A simple test project 
 
-Exercise on ReactJS for the Bootcamp GoStack - Rocketseat
+Exercise on ReactJS for the Bootcamp GoStack - Rocketseat.
 
-Retrieve the projects in an array and add new [simulated] projets with an add button.
+Add a record in the backend by clicking the button "Adicionar projeto".
+
+The purpose of the project was to test useState and useEffect. That way, there is no form to add new records.
 
 Some of the features used in this project: </br>
-repo https://github.com/rlovatto/NodeJS-concepts-middleware.git for the backend </br>
 React </br>
 &nbsp;&nbsp;&nbsp;useState </br>
 &nbsp;&nbsp;&nbsp;useEffect </br>
@@ -17,8 +18,17 @@ webpack </br>
 
 To install all dependencies:
 
-<code>yarn</code>
+```
+yarn
+```
 
 To run the project:
 
-<code>yarn dev</code>
+```
+yarn dev
+```
+
+### Node.js back-end for this project:
+
+[gobarber-reactjs](https://github.com/rlovatto/gobarber-reactjs)
+
