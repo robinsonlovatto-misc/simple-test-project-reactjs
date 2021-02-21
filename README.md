@@ -6,7 +6,7 @@ Add a record in the backend by clicking the button "Adicionar projeto".
 
 The purpose of the project was to test useState and useEffect. That way, there is no form to add new records.
 
-Some of the features used in this project: </br>
+### Some of the features used in this project: 
 React </br>
 &nbsp;&nbsp;&nbsp;useState </br>
 &nbsp;&nbsp;&nbsp;useEffect </br>
@@ -16,7 +16,13 @@ Importing css and images </br>
 Babel </br>
 webpack </br>
 
-To install all dependencies:
+
+### Installation
+Install and run the back-end:
+[simple-test-project-nodejs](https://github.com/rlovatto/simple-test-project-nodejs)
+
+
+To install all dependencies for this project:
 
 ```
 yarn
